@@ -1,6 +1,6 @@
 using System;
 
-namespace aspApp.Models
+namespace vids.Models
 {
     public class ErrorViewModel
     {

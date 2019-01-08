@@ -12086,11 +12086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jasper/aspApp/aspApp.csproj",
-      "projectName": "aspApp",
-      "projectPath": "/home/jasper/aspApp/aspApp.csproj",
+      "projectUniqueName": "/home/jasper/vids/vids.csproj",
+      "projectName": "vids",
+      "projectPath": "/home/jasper/vids/vids.csproj",
       "packagesPath": "/home/jasper/.nuget/packages/",
-      "outputPath": "/home/jasper/aspApp/obj/",
+      "outputPath": "/home/jasper/vids/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
